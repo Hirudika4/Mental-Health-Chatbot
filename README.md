@@ -17,12 +17,3 @@ Whether you're a researcher, therapist, or someone looking to integrate AI into 
 
 ---
 
-## 🛠️ **Getting Started**
-
-Follow the steps below to run the chatbot locally:
-
-### 1. **Clone the Repository**
-
-```bash
-git clone https://github.com/yourusername/mindmate-chatbot.git
-cd mindmate-chatbot
