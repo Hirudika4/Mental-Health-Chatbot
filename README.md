@@ -8,12 +8,12 @@ Whether you're a researcher, therapist, or someone looking to integrate AI into 
 
 ## ✨ **Features**
 
-- 🧠 **Chat with Mental Health PDFs:** Upload therapy guides, mental wellness resources, or self-help books and ask natural questions.
-- ⚡ **Groq LLaMA3-70B Powered:** Ultra-low latency responses from a high-quality LLM hosted on Groq.
-- 📁 **Multi-PDF Support:** Load and query across multiple documents.
-- 🧠 **Retrieval-Augmented Generation (RAG):** Combines semantic search + LLMs for precise contextual answers.
-- 💬 **Custom Themed Chat Interface:** Built with Gradio Blocks and Shiki theme.
-- 🧠 **Embeddings from HuggingFace:** Uses `sentence-transformers` to embed and retrieve relevant context.
+-  **Chat with Mental Health PDFs:** Upload therapy guides, mental wellness resources, or self-help books and ask natural questions.
+-  **Groq LLaMA3-70B Powered:** Ultra-low latency responses from a high-quality LLM hosted on Groq.
+-  **Multi-PDF Support:** Load and query across multiple documents.
+-  **Retrieval-Augmented Generation (RAG):** Combines semantic search + LLMs for precise contextual answers.
+-  **Custom Themed Chat Interface:** Built with Gradio Blocks and Shiki theme.
+-  **Embeddings from HuggingFace:** Uses `sentence-transformers` to embed and retrieve relevant context.
 
 ---
 
