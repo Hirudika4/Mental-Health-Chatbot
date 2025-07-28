@@ -1,4 +1,4 @@
-# 🧠 **mindmate-chatbot: Your AI Mental Health Companion**
+# 🧠 **Mindmate-Chatbot: Your AI Mental Health Companion**
 
 Welcome to **mindmate-chatbot**, a personalized mental health chatbot powered by **Groq’s ultra-fast LLaMA3 model**, **LangChain**, and **Gradio**. This project helps users get supportive responses from trusted mental health documents using **retrieval-augmented generation (RAG)**.
 
