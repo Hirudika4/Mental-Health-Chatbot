@@ -1,31 +1,28 @@
-🧠 Mental Health Chatbot – Built with LangChain, Gradio & Groq
-I’m excited to share a Mental Health Chatbot that I built using the power of:
+# 🧠 **mindmate-chatbot: Your AI Mental Health Companion**
 
-🔹 Gradio – for an interactive web interface
-🔹 LangChain – for orchestrating prompt workflows
-🔹 Groq’s LLaMA3-70B – for lightning-fast, low-latency LLM responses
-🔹 Hugging Face Sentence Transformers – to generate meaningful document embeddings
-🔹 ChromaDB – for efficient vector storage and retrieval
+Welcome to **mindmate-chatbot**, a personalized mental health chatbot powered by **Groq’s ultra-fast LLaMA3 model**, **LangChain**, and **Gradio**. This project helps users get supportive responses from trusted mental health documents using **retrieval-augmented generation (RAG)**.
 
-💡 What It Does
-The chatbot reads mental health–related PDFs (like guides, support manuals, or therapy resources) and allows users to ask natural language questions about the content.
+Whether you're a researcher, therapist, or someone looking to integrate AI into mental health services, this project provides a powerful base to start from. 💬
 
-📘 Upload documents → 📎 Vectorize with embeddings → 🧠 Ask questions → 💬 Get meaningful, contextual answers
+---
 
-⚙️ Tech Stack
-Frontend: Gradio Blocks UI (custom-themed)
+## ✨ **Features**
 
-Backend LLM: Groq API (LLaMA 3 70B)
+- 🧠 **Chat with Mental Health PDFs:** Upload therapy guides, mental wellness resources, or self-help books and ask natural questions.
+- ⚡ **Groq LLaMA3-70B Powered:** Ultra-low latency responses from a high-quality LLM hosted on Groq.
+- 📁 **Multi-PDF Support:** Load and query across multiple documents.
+- 🧠 **Retrieval-Augmented Generation (RAG):** Combines semantic search + LLMs for precise contextual answers.
+- 💬 **Custom Themed Chat Interface:** Built with Gradio Blocks and Shiki theme.
+- 🧠 **Embeddings from HuggingFace:** Uses `sentence-transformers` to embed and retrieve relevant context.
 
-RAG Pipeline: LangChain + ChromaDB
+---
 
-Embeddings: sentence-transformers/all-MiniLM-L6-v2
+## 🛠️ **Getting Started**
 
-PDF Loader: PyPDFLoader from LangChain
+Follow the steps below to run the chatbot locally:
 
-🚀 Key Features
-✅ Real-time Q&A from uploaded mental health documents
-✅ Uses Retrieval-Augmented Generation (RAG)
-✅ Supports multiple PDFs and scalable vector indexing
-✅ Runs on local or cloud (can be deployed to Hugging Face Spaces or Colab)
-✅ Clean, themed Gradio UI with chat history
+### 1. **Clone the Repository**
+
+```bash
+git clone https://github.com/yourusername/mindmate-chatbot.git
+cd mindmate-chatbot
